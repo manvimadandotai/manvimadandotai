@@ -3,7 +3,6 @@
 <!--
 **manvimadan12/manvimadan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [#100DaysOfDeepLearning](https://www.instagram.com/ml.newzealand/) Challenge
 - 💬 Ask me about : Business, Travel, Psychology, Data Science, Machine Learning, AI Ethics, Auckland's weather, Job search in NZ....
