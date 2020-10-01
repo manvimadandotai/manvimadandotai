@@ -31,3 +31,7 @@
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=Becoming-ML_engineer&theme=radical" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=github-readme-stats&theme=radical" />
+</a>  
