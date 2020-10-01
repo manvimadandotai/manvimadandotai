@@ -9,7 +9,7 @@
 - 💬 Ask me about : Business, Travel, Psychology, Data Science, Machine Learning, AI Ethics, Auckland's weather, Job search in NZ....
 - 📫 How to reach me: [LinkedIn](https://nz.linkedin.com/in/manvimadan?challengeId=AQFP41gYUVTWXgAAAXTdLTLUD1ouI-Slkj6j1vSVIpFSPFDELixPuQAPkSBK4_beV-6747rXSKjHK4dkQeuwCiK23vil0RopCg&submissionId=172312d1-e273-3916-9781-05335d3a4409), DM on [Instagram](https://www.instagram.com/ml.newzealand/) or email me at manvimadan@outlook.com
 
-
+<!--
 **Languages and Tools:**  
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
