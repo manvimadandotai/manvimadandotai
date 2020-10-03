@@ -28,7 +28,7 @@ I am Manvi Madan and I am a data scientist working in financial services in Aucl
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvimadan12&layout=compact&theme=radical" />
 </a> 
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/manvimadan12/Becoming-ML_engineer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=Becoming-ML_engineer&theme=radical" />
 </a>
 
