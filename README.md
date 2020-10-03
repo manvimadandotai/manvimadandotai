@@ -33,6 +33,6 @@ I am Manvi Madan and I am a data scientist working in financial services in Aucl
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/manvimadan12/ML-Research-Papers-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=ML-Research-Papers-&theme=radical" />
 </a>   
