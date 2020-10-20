@@ -2,7 +2,7 @@
 
 <!--
 **manvimadan12/manvimadan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am Manvi Madan and I am a data scientist working in financial services in Aucland,NZ.
+I am Manvi Madan and I am an Analytics Specialist working in financial services in Aucland,NZ.
 
 - 🔭 I’m currently working on [#100DaysOfDeepLearning](https://www.instagram.com/ml.newzealand/) Challenge
 - 🌱 I’m currently learning about Computer Vision with Deep Learning
