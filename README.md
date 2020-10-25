@@ -2,6 +2,16 @@
 
 <!--
 **manvimadan12/manvimadan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+<h3 align="center">I am Manvi Madan and I am an Analytics Specialist working in financial services in Aucland,NZ.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputjay41&label=Profile%20views&color=0e75b6&style=flat" alt="manvimadan12" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manvimadan12" alt="manvimadan12" /></a> </p>
+
+
+
+
 I am Manvi Madan and I am an Analytics Specialist working in financial services in Aucland,NZ.
 
 - 🔭 I’m currently working on [#100DaysOfDeepLearning](https://www.instagram.com/ml.newzealand/) Challenge
