@@ -9,11 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manvimadan12" alt="manvimadan12" /></a> </p>
 
-
-
-
-I am Manvi Madan and I am an Analytics Specialist working in financial services in Aucland,NZ.
-
 - 🔭 I’m currently working on [#100DaysOfDeepLearning](https://www.instagram.com/ml.newzealand/) Challenge
 - 🌱 I’m currently learning about Computer Vision with Deep Learning
 - 💬 Ask me about : Business, Psychology, Data Science, FinTech, Machine Learning, AI Ethics, Auckland's weather, Job search in NZ....
