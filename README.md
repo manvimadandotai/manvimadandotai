@@ -41,3 +41,11 @@
 <a href="https://github.com/manvimadan12/ML-Research-Papers-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=ML-Research-Papers-&theme=radical" />
 </a>   
+
+<a href="https://github.com/manvimadan12/ML-Research-Papers-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=Computer_Vision_Roadmap&theme=radical" />
+</a>   
+
+<a href="https://github.com/manvimadan12/ML-Research-Papers-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=workout-training-using-ml&theme=radical" />
+</a>   
