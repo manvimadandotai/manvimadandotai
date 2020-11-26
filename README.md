@@ -20,7 +20,8 @@
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/python.jpg"></code>
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/powerbi2.jpg"></code>
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/sql.png"></code>
-<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/opencv.png"></code>    
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/opencv.png"></code>  
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/Tensorflow_logo.svg.png"></code>  
 
 
 
