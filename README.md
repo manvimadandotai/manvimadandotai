@@ -23,6 +23,14 @@
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/Tensorflow_logo.svg.png"></code>
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/opencv.png"></code>  
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/jupyter.jpeg"></code>  
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/vscode.png"></code>
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/spark.png"></code>
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/rstudio.png"></code>
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/matlab.png"></code>
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/hadoop%20logo.jpg"></code>
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/excel.jpg"></code>  
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/1200px-Spyder_logo.svg.png"></code>  
+
 
 
 
