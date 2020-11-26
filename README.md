@@ -18,7 +18,7 @@
 **Languages and Tools:**  
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/Rlogo.svg"></code>
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/python.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/power%20bi.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
