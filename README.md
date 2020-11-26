@@ -20,7 +20,7 @@
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/python.jpg"></code>
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/powerbi2.jpg"></code>
 <code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/opencv.png"></code>    
 
 
 
