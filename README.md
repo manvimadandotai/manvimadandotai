@@ -12,7 +12,7 @@
 - 🔭 I’m have completed [#100DaysOfDeepLearning and #100daysofmlcode](https://www.instagram.com/ml.newzealand/) Challenge in 2020
 - 🌱 I’m currently learning about Quantum Computing
 - 💬 Ask me about : Business, Neuroscience, Data Science, FinTech, Machine Learning, AI Ethics, Job search in NZ....
-- 📫 How to reach me: [LinkedIn](https://nz.linkedin.com/in/manvimadan?challengeId=AQFP41gYUVTWXgAAAXTdLTLUD1ouI-Slkj6j1vSVIpFSPFDELixPuQAPkSBK4_beV-6747rXSKjHK4dkQeuwCiK23vil0RopCg&submissionId=172312d1-e273-3916-9781-05335d3a4409), DM on [Instagram](https://www.instagram.com/ml.newzealand/) or email me at manvimadan@outlook.com
+- 📫 How to reach me: [LinkedIn](https://nz.linkedin.com/in/manvimadan?challengeId=AQFP41gYUVTWXgAAAXTdLTLUD1ouI-Slkj6j1vSVIpFSPFDELixPuQAPkSBK4_beV-6747rXSKjHK4dkQeuwCiK23vil0RopCg&submissionId=172312d1-e273-3916-9781-05335d3a4409), DM on [Instagram](https://www.instagram.com/manvimadan.ai/) or email me at manvimadan@outlook.com
 
 
 **Languages and Tools:**  
