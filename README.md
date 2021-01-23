@@ -8,10 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputjay41&label=Profile%20views&color=0e75b6&style=flat" alt="manvimadandotai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manvimadandotai" alt="manvimadandotai" /></a> </p>
--🌱 I’m currently learning about Quantum Computing
+**-🌱 I’m currently learning about Quantum Computing
 - 🔭 I’m have completed [#100DaysOfDeepLearning and #100daysofmlcode](https://www.instagram.com/ml.newzealand/) Challenge in 2020
 - 💬 Ask me about : Business, Neuroscience, Data Science, FinTech, Machine Learning, AI Ethics, Job search in NZ....
-- 📫 How to reach me: [LinkedIn](https://nz.linkedin.com/in/manvimadan), DM on [Instagram](https://www.instagram.com/manvimadan.ai/) or email me at manvimadan@outlook.com
+- 📫 How to reach me: [LinkedIn](https://nz.linkedin.com/in/manvimadan), DM on [Instagram](https://www.instagram.com/manvimadan.ai/) or email me at manvimadan@outlook.com **
 
 
 **Languages and Tools:**  
