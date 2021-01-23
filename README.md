@@ -58,3 +58,7 @@
 <a href="https://github.com/manvimadandotai/workout-training-using-ml">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadandotai&repo=workout-training-using-ml&theme=radical" />
 </a>   
+
+<a href="https://github.com/manvimadandotai/Introduction_to_Quantum_Computing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadandotai&repo=Introduction_to_Quantum_Computing&theme=radical" />
+</a>   
