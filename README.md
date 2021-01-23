@@ -34,26 +34,26 @@
 
 
 <a href="https://github.com/manvimadandotai/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvimadan12&show_icons=true&include_all_commits=true&theme=radical" alt="Manvi's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvimadandotai&show_icons=true&include_all_commits=true&theme=radical" alt="Manvi's github stats" />
 </a>
 
 <a href="https://github.com/manvimadandotai/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvimadan12&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvimadandotai&layout=compact&theme=radical" />
 </a> 
 
 <a href="https://github.com/manvimadandotai/Becoming-ML_engineer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=Becoming-ML_engineer&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadandotai&repo=Becoming-ML_engineer&theme=radical" />
 </a>
 
 
 <a href="https://github.com/manvimadandotai/ML-Research-Papers-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=ML-Research-Papers-&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadandotai&repo=ML-Research-Papers-&theme=radical" />
 </a>   
 
 <a href="https://github.com/manvimadandotai/Computer_Vision_Roadmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=Computer_Vision_Roadmap&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadandotai&repo=Computer_Vision_Roadmap&theme=radical" />
 </a>   
 
 <a href="https://github.com/manvimadandotai/workout-training-using-ml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=workout-training-using-ml&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadandotai&repo=workout-training-using-ml&theme=radical" />
 </a>   
