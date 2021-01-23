@@ -5,9 +5,9 @@
 
 <h3 align="center">I am Manvi Madan. I am a Data Scientist working in Aucland,NZ.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputjay41&label=Profile%20views&color=0e75b6&style=flat" alt="manvimadan12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputjay41&label=Profile%20views&color=0e75b6&style=flat" alt="manvimadandotai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manvimadan12" alt="manvimadan12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manvimadandotai" alt="manvimadandotai" /></a> </p>
 -🌱 I’m currently learning about Quantum Computing
 - 🔭 I’m have completed [#100DaysOfDeepLearning and #100daysofmlcode](https://www.instagram.com/ml.newzealand/) Challenge in 2020
 - 💬 Ask me about : Business, Neuroscience, Data Science, FinTech, Machine Learning, AI Ethics, Job search in NZ....
