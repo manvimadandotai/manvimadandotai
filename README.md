@@ -8,9 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputjay41&label=Profile%20views&color=0e75b6&style=flat" alt="manvimadan12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manvimadan12" alt="manvimadan12" /></a> </p>
-
+-🌱 I’m currently learning about Quantum Computing
 - 🔭 I’m have completed [#100DaysOfDeepLearning and #100daysofmlcode](https://www.instagram.com/ml.newzealand/) Challenge in 2020
-- 🌱 I’m currently learning about Quantum Computing
 - 💬 Ask me about : Business, Neuroscience, Data Science, FinTech, Machine Learning, AI Ethics, Job search in NZ....
 - 📫 How to reach me: [LinkedIn](https://nz.linkedin.com/in/manvimadan?challengeId=AQFP41gYUVTWXgAAAXTdLTLUD1ouI-Slkj6j1vSVIpFSPFDELixPuQAPkSBK4_beV-6747rXSKjHK4dkQeuwCiK23vil0RopCg&submissionId=172312d1-e273-3916-9781-05335d3a4409), DM on [Instagram](https://www.instagram.com/manvimadan.ai/) or email me at manvimadan@outlook.com
 
@@ -34,27 +33,27 @@
 
 
 
-<a href="https://github.com/manvimadan12/github-readme-stats">
+<a href="https://github.com/manvimadandotai/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvimadan12&show_icons=true&include_all_commits=true&theme=radical" alt="Manvi's github stats" />
 </a>
 
-<a href="https://github.com/manvimadan12/github-readme-stats">
+<a href="https://github.com/manvimadandotai/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvimadan12&layout=compact&theme=radical" />
 </a> 
 
-<a href="https://github.com/manvimadan12/Becoming-ML_engineer">
+<a href="https://github.com/manvimadandotai/Becoming-ML_engineer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=Becoming-ML_engineer&theme=radical" />
 </a>
 
 
-<a href="https://github.com/manvimadan12/ML-Research-Papers-">
+<a href="https://github.com/manvimadandotai/ML-Research-Papers-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=ML-Research-Papers-&theme=radical" />
 </a>   
 
-<a href="https://github.com/manvimadan12/Computer_Vision_Roadmap">
+<a href="https://github.com/manvimadandotai/Computer_Vision_Roadmap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=Computer_Vision_Roadmap&theme=radical" />
 </a>   
 
-<a href="https://github.com/manvimadan12/workout-training-using-ml">
+<a href="https://github.com/manvimadandotai/workout-training-using-ml">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=workout-training-using-ml&theme=radical" />
 </a>   
