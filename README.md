@@ -3,7 +3,7 @@
 <!--
 **manvimadan12/manvimadan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h3 align="center">I am Manvi Madan. I am a Data Scientist working in Aucland,NZ.</h3>
+<h3 align="center">I am Manvi Madan. I am a Data Analytics Specialist working in Aucland,NZ.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputjay41&label=Profile%20views&color=0e75b6&style=flat" alt="manvimadandotai" /> </p>
 
