@@ -45,8 +45,5 @@
 </a>
 
 
-<a href="https://github.com/manvimadandotai/Computer_Vision_Roadmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadandotai&repo=Computer_Vision_Roadmap&theme=radical" />
-</a>   
 
 
