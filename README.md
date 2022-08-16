@@ -31,7 +31,7 @@
 
 
 
-
+<!--
 <a href="https://github.com/manvimadandotai/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvimadandotai&show_icons=true&include_all_commits=true&theme=radical" alt="Manvi's github stats" />
 </a>
@@ -43,7 +43,7 @@
 <a href="https://github.com/manvimadandotai/Becoming-ML_engineer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadandotai&repo=Becoming-ML_engineer&theme=radical" />
 </a>
-
+-->
 
 
 
